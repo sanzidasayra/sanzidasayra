@@ -56,7 +56,7 @@ I am a dedicated and detail-oriented frontend developer with a passion for build
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzida-sayra/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sanzidasayra)  
-[![Facebook](https://img.shields.io/badge/-facebook-000?logo=facebook&logoColor=white)](https://www.facebook.com/sanzida.sayra/)
+[![Twitter](https://img.shields.io/badge/-twitter-000?logo=facebook&logoColor=white)](https://x.com/SayraSanzida)
 
 ---
 
