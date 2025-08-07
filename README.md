@@ -1,5 +1,5 @@
 <!-- 🌟 Banner -->
-<img src="https://i.ibb.co/7QW06LJ/github-banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://i.ibb.co.com/C32F7CgL/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi, I'm Mst. Sanzida Akter
 
@@ -9,10 +9,7 @@
 
 ## 🧕 About Me
 
-I am a dedicated and detail-oriented frontend developer with a passion for building responsive and user-centric web applications.  
-Currently learning MERN stack to transition into full-stack development.  
-I believe in writing clean, efficient code and continuously exploring new tools and technologies.  
-Let's connect and build something amazing together!
+I am a dedicated and detail-oriented frontend developer with a passion for building responsive and user-centric web applications. Currently learning MERN stack to transition into full-stack development. I believe in writing clean, efficient code and continuously exploring new tools and technologies. Let's connect and build something amazing together!
 
 ---
 
@@ -59,7 +56,7 @@ Let's connect and build something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzida-sayra/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sanzidasayra)  
-[![Facebook](https://img.shields.io/badge/-Portfolio-000?logo=facebook&logoColor=blue)](https://www.facebook.com/sanzida.sayra/)
+[![Facebook](https://img.shields.io/badge/-facebook-000?logo=facebook&logoColor=white)](https://www.facebook.com/sanzida.sayra/)
 
 ---
 
