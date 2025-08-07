@@ -57,9 +57,9 @@ Let's connect and build something amazing together!
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzida-sayra/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sanzidasayra)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Facebook](https://img.shields.io/badge/-Portfolio-000?logo=facebook&logoColor=blue)](https://www.facebook.com/sanzida.sayra/)
 
 ---
 
