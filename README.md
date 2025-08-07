@@ -1,5 +1,5 @@
 <!-- 🌟 Banner -->
-<img src="https://i.ibb.co.com/C32F7CgL/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://i.ibb.co.com/DDHZndN6/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-1.webp" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi, I'm Mst. Sanzida Akter
 
