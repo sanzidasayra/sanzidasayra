@@ -51,11 +51,19 @@ I am a dedicated and detail-oriented frontend developer with a passion for build
 
 ---
 
-## Connect with Me
+<h2>Connect with Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanzida-sayra/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sanzidasayra" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/SayraSanzida" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000?logo=facebook&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzida-sayra/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sanzidasayra)  
-[![Twitter](https://img.shields.io/badge/-twitter-000?logo=facebook&logoColor=white)](https://x.com/SayraSanzida)
 
 ---
 
